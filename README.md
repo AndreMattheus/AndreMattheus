@@ -3,7 +3,7 @@
 
 - 🧠 I’m currently learning **Java, Thymeleaf and C++**
 
-- 📫 How to reach me **andre.mattheusc@gmail.com** and **@andre.mattheus** on Instagram
+- 📫 How to reach me: **andre.mattheusc@gmail.com** and **@andre.mattheus** on Instagram
 - 😄 Pronouns: He/Him
 
 <h3 align="left">Languages and Tools:</h3>
