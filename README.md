@@ -1,11 +1,11 @@
 # Hi 👋, I'm Matheus André
 ### 🎓 I'm a Bachelor of Information Technology student and a Mid-level IT Technician.
 
-- 💻 Fullstack Web Developer passionate about scalable software and intelligent solutions.
+- 💻 Fullstack Web Developer passionate about scalable software and intelligent solutions
 
 - 🧠 I’m currently learning **Angular, FastAPI and LangChain**
 
-- 😉 I work with Java, Angular, and Python to build RESTful APIs and integrate AI features using FastAPI and LangChain, bringing automation and smart functionality to real-world applications.
+- 😉 I work with Java, Angular, and Python to build RESTful APIs and integrate AI features using FastAPI and LangChain, bringing automation and smart functionality to real-world applications
 
 - 📫 How to reach me: **andre.mattheusc@gmail.com** and **@andre.mattheus** on Instagram
 
