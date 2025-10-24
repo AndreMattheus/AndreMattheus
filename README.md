@@ -3,7 +3,7 @@
 
 - 💻 Fullstack Web Developer passionate about scalable software and intelligent solutions
 
-- 🧠 I’m currently learning **Angular, FastAPI and LangChain**
+- 🧠 I’m currently learning **Angular**, **FastAPI** and **LangChain**
 
 - 😉 I work with Java, Angular, and Python to build RESTful APIs and integrate AI features using FastAPI and LangChain, bringing automation and smart functionality to real-world applications
 
